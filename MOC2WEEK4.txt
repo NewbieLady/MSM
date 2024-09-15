@@ -1,0 +1,8 @@
+Which ad campaign objective group (and customer journey stage) includes objectives that get people to consider, seek information about, and engage with your product or service? |Consideration
+A retailer is opening a new store and wants to optimize towards generating more physical store visits to that location to claim exclusive offers. Which objective should the retailer apply?|Awareness
+Which feature in Ads Manager allows Meta to dynamically assign budget to ad sets based on their performance, therefore maximizing your spending efficiency?|Advantage campaign budget
+Let's say you have an expected revenue of $100,000. With the Rule of Thirds in mind, what should your upper limit for advertising spending be in dollars? |33,333
+Which bid strategy limits what Meta can bid in every single auction?|Bid Cap
+Which bid strategy is best for maximizing the number of outcomes for your budget, while keeping the average cost per outcome below a certain amount? |Cost per Result Goal
+If you're doing a split-test, which variable should you change to test whether it's more effective to optimize for impressions, leads, link clicks, or other options. ? |Delivery Optimization
+Which variable in a split test compares automatic placements with specifically chosen ad placements?|Placement

@@ -1,0 +1,17 @@
+What data might you include when presenting on conversion KPIs?|Charts and graphs on lead gen sign-ups and purchases
+How could you open your presentation?|All of the above
+What are some slides you'd want to include in your slide deck?|Goals, Objectives, and KPIs
+What is a best practice to keep in mind when presenting data visually?|Make sure your colors are deliberate, brand colors, or gradients of one color
+You're anticipating audience questions, especially one asking how the budget was spent and if money was wasted. You'd then include a slide addressing what?|ROAS, ROI, and possible CAC
+When creating a presentation, what should you focus on last?|Ways you'll iterate future campaigns
+You want to talk about an experiment you ran that showed how much your marketing increased behavior. Which of the following would you talk about?|Lift study
+It's the day of your presentation, and you are NOT freaking out. Why?|All of the above
+If you were presenting your data results, and wanted to talk about how much a new customer might spend over the full relation with your business, what number would you include?|LTV
+What data might you include when presenting on awareness KPIs?|Charts and graphs on reach and impressions
+What is a best practice to keep in mind when presenting data visually?|Make sure you have the right charts and graphs for the right data
+You're anticipating audience questions, especially one asking who the advertising went to, and where. You'd then include a slide addressing what?|How you set up your campaign
+How should you think about your movements during a presentation?|All of the above
+When creating a presentation, what's the main thing to keep in mind as you create it?|Who your audience is
+You want to talk about an experiment you ran that showed the difference between two audiences being marketed to. Which of the following would you talk about?|A/B Testing
+It's the day of your presentation, and you are NOT confusing your audience. Why?|All of the above
+If you were presenting your data results, and wanted to talk about your revenue as a ratio to what you spent, what number would you include?|ROAS

@@ -1,0 +1,10 @@
+You design an ad campaign for a weight-loss product with "before and after" pictures. Is Meta likely to reject this campaign for violating its Ad Policies? |Yes
+What is a valid reason that an ad would be rejected by Meta?|The ad used a Facebook logo with a red background instead of the official blue
+Which ad format opens up a broader catalog of up to 50 different products when tapped on?|Collection
+A hardware business wants users to immediately be able to browse its pipe collection, which contains more than 25 types of pipe of varying lengths and widths. Which ad format should the retailer use to meet these requirements?|Collection
+An advertiser is looking to change an ad campaign's objective from Sales to Traffic. Where should the advertiser navigate in Ads Manager? |Campaign level
+True or False? It's a good idea to use stock photos when creating your ads as opposed to your own photos, as stock photos are more universal.|False
+You design an ad for a campaign that markets skate shoes to teens. Is Meta likely to reject this campaign for violating its Ad Policies? |No
+What is a valid reason that an ad would be rejected by Meta?|The ad contained sexually suggestive images.
+Which KPI measures how many times an ad's link to reach your website was clicked?|Link Clicks
+A new alcoholic seltzer company wants to compete in a crowded market by creating a video ad campaign which people will remember when they go to the store. Which metric should the company use to evaluate the success of the campaign?|Estimated Ad Recall Lift

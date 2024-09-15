@@ -1,0 +1,51 @@
+What feature is unique to Instagram Stories and Facebook Stories?|Content disappears after 24 hours
+What is the primary goal of a Facebook group?|A space to communicate about shared interests with certain people on Facebook
+Which of the following statements are true about Instagram Stories Ads? (Select two)|Stories on Instagram give you an immersive, full-screen vertical format to bring your business to life.$Stories have an intimate and personal feel that allows people to be more immersed and in the moment.
+What is a similarity between a boosted post and Facebook ad?|Both require budget to be shared with a wider audience
+Which two types of posts can be boosted on Facebook? (Select two)|Special offers$Events organized by the business
+What is the first step required to establish a business presence on Facebook?|Create a page
+Which Facebook roles are able to manage an ad account? (Choose two) |Advertiser$Administrator
+When can you include a dedicated link to your landing page?|When you create an ad
+When you begin a new campaign on Ads Manager, what is the first step in the process?|Align your marketing goal with a campaign objective
+You want to set a maximum bid amount for individual actions like link clicks and landing page views. What should you create?|Facebook ad
+If your goal is to generate sales on your website, which campaign objective should you select?|Sales
+If you select Traffic as your campaign objective, what are you hoping your audience will do?|Visit your website
+What are the benefits of Meta Pixel? (Choose two)|Helps advertisers reach the right people$Measures the results of an ad across devices
+Which two ad placement options are available on Instagram? (Choose two)|Feed$Stories
+What is a valid reason that an ad would be rejected by Meta?|The ad contained sexually suggestive images.
+On a Facebook Page, in which two places can a business see reporting for boosted posts? (Choose two)|Page Insights$Page post
+An advertiser is about to deliver a campaign. Where should the advertiser navigate to in Ads Manager to include Instagram in the campaign?|Ad set level
+Which part of the total value ad auction equation tells you how much an advertiser is willing to pay to achieve their desired outcome?|Advertiser Bid
+A retailer is opening a new store and wants to optimize towards generating more physical store visits by creating strong awareness in the local population. Which objective should the retailer apply?|Awareness
+A brand has a new goal to get more people to see, share, like and comment on individual posts on Facebook and Instagram. Which campaign objective is appropriate for this brand?|Engagement
+A quick service restaurant client is launching a new delivery service and wants to build awareness of the service to a large number of people. The client wants to launch a campaign that reaches people ages 18-34 who are interested in food and dining. The client has two creatives: a ThruPlay video and a 6-second video. Which objective and placements should the client use?|Awareness objective on Instagram Stories, Instagram feed and Facebook feed
+Where can an advertiser create a Custom Audience or Lookalike Audience?|Audiences
+Which audience creation tool should be used to create an audience of people who have signed up for a business's newsletter?|Custom Audience
+A business only has high-quality photos as creative assets. It's interested in testing video ads but doesn't have resources to create them. What solution should the business try?|Slideshow
+A business set up a campaign. During the process, it tested different placements and observed a higher estimated total reach when it selected automatic placements. What caused this result?|Advantage+ Placements more efficiently allocated the ad set budget.
+Which of the following ad account settings helps you control your total ad costs and will pause your ads after a certain spending limit is reached? |Account Spending Limit
+Which variable in a split test compares how your ad performs with a video asset versus an image carousel, or with any other differentiation in ad-level adjustments?|Creative
+In which major section of Ads Manager (found in the top navigation bar) would you prepare mockup ad campaigns? |Advertise
+Which KPI estimates how many people would remember seeing your ad if they were asked within two days?|Estimated Ad Recall Lift
+Which data protection law was specifically designed to protect children?|COPPA
+Which interface can be used to set up a Facebook ad campaign?|Ads Manager
+As a business owner, you'd like to set up a presence on a social media platform where you can post videos and images as well as update customers on upcoming sales, new products, and events. Which of the following would be an ideal platform?|Facebook
+What is the minimum criteria a company must meet to receive the "very responsive to messages" badge?|A response rate of at least 90% and a response time of less than 15 minutes
+What is a benefit of using a Facebook ad instead of a regular Page post?|Facebook ads can reach a more specific audience
+What can a boosted post help an advertiser achieve?|Increase engagement on Page content
+Which advertising tool on Facebook implements the simplest, and least detailed, way to create a Facebook ad?|Advertising from your Page
+In what order is an advertising campaign created in Ads Manager?|Campaign, Ad Set, Ad
+Which bid strategy limits what Meta can bid in every single auction?|Bid Cap
+A brand launches a new website and wants to encourage people to visit it. What should the brand select first to create the campaign?|The appropriate campaign objective
+You recently installed the Meta Pixel on your company's website. At what level should you choose the conversion event optimization?|Ad set
+Which two ad placement options are available on Instagram? (Choose two)|Stories$Feed
+You design an ad campaign for a weight-loss product with "before and after" pictures. Is Meta likely to reject this campaign for violating its Ad Policies? |Yes
+A restaurant launches a video campaign for a new location. The goal is to maximize the number of times the video has started to play per impression. Which metric should be used to measure success?|3-second video views
+An online store wants to build a database of customer information but it does not have the Meta Pixel installed. Which campaign objective meets this business goal?|Leads
+Which element is required to create a Custom Audience from website visitors?|Meta Pixel
+If a business wants to retarget customers who previously purchased an item from its website, what audience type should it use?|Custom Audience
+A business wants to sell products online. What ad format clearly displays both a video and a product?|Collection
+True or False: You must have a lifetime budget selected in order to set a specific ad set schedule (i.e. one with specified days and times).|True
+In which major section of Ads Manager (found in the top navigation bar) could you learn more about why Meta might have rejected your ad? |Manage Business
+A candy company creates a campaign to increase sales of its candies through its website. Which metric should the company use to evaluate the success of the campaign?|Sales
+Which data protection law was specifically designed to protect children?|COPPA

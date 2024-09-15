@@ -1,0 +1,19 @@
+Which of the following are GDPR data protection obligations for companies who collect data? (Select all that apply)|Companies must alert people within 72 hours if their personal data was leaked$Companies are prohibited from collecting certain data categories (like ethnicity or sexual orientation)
+True or false? Any business that collects and controls the personal information of California residents should comply with the CCPA. |True
+What is the maximum fine related to GDPR violations? |4% of the annual revenue of a company
+What's the acronym for the US law that took effect in 2000 and limits the collection and use of personal information of people under the age of 13?|COPPA
+True or false? The DAA's YourAdChoices program performs the same role in the US that the GDPR does in the European Union. |False
+Which of the following are NOT European self-regulatory principles for Data-Driven Advertising? |Sensitive segmentation
+True or false? Ideally, the cookie would function as the memory of the interactions between a website and a person. However, a person may use different computers, different browsers and mobile devices, and cookies don't work across devices.|True
+A website-specific code stored in a person's browser to ease navigation is called what?|Cookie
+True or false? Most large online platforms and websites have a data policy, in which they explain what data they receive, what they use it for, and how people can control what they share.|True
+Which of the following are GDPR data protection obligations for companies who collect data? (Select all that apply)|Companies are prohibited from collecting certain data categories (like ethnicity or sexual orientation)$Companies must designate people whose job it is to protect the data they receive$Companies must alert people within 72 hours if their personal data was leaked
+True or false? The GDPR is an international agreement that applies to both companies in the United States and the European Union, independent of where their customers or users are based. |False
+Which of the following are NOT European self-regulatory principles for Data-Driven Advertising? |Optimism
+You recently signed up for a new account with Facebook. The information that you entered when signing up for your account and your interactions on your account are examples of what type of data?|First-party data
+True or false? Companies that violate the GDPR can be fined up to 4% of the annual revenue of a company. |True
+True or false? COPPA is an extension law to CCPA? |False
+What's the acronym for the law that protects data and online privacy in the European Union?|GDPR
+Which of the following are European self-regulatory principles for Data-Driven Advertising? |Education$User choice$Sensitive segmentation
+True or False: Data-based advertising enables advertisers to display ads to people based on their location or previous behaviors. |True
+You are on Facebook and see an ad for a clothing brand that seems very specific to your particular taste. You decide to click the three dots at the top right corner of the post and use Meta's ad tool to be informed on who the advertiser is trying to reach based on their audience targeting information. This tool is called:|"Why You're Seeing This Ad"
