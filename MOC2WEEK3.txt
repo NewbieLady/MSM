@@ -24,3 +24,8 @@ An ad agency submits a creative brief to you. It looks almost complete, but it's
 True or false? Emojis can be an effective way to grab their attention and communicate in a casual way.|True
 Which of the following are good tips to keep in mind when shooting a picture for your ad campaign? (Choose all that apply)|Follow the Rule of Thirds$Keep it simple$Use attractive color combinations
 Wes is the owner of a spa and massage center called OASIS. He wants to convey to potential customers the mental and physical benefits of his massage and spa offerings, as well as the accessibility of his business. Which of the following tips should he follow to appropriately get his message across? (Select all that apply)|Mention price or special offers for spa treatments and massages$Use customer reviews to support claims about physical and mental health benefits
+Which objective should be selected to generate sales on a website or app?|Sales
+Which type of budget in Ads Manager lets you control how much money you spend on each ad set?|Ad Set budget
+Which bid strategy tells Meta to bid with the goal of getting you the lowest possible cost per desired action, while also spending your entire budget by the end of the campaign?|Highest Volume
+Which bid strategy does Meta recommend you select in Ads Manager?|Highest Volume
+Which variable in a split test compares how effective your ads are at reaching different audiences or demographics?|Audience
