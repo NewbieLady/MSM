@@ -1,17 +1,17 @@
 Imagine you work in the marketing department of a large electronics company. You are planning to set up a new conversion campaign on Facebook focused on generating online sales for computer monitors. Your manager asks you to make sure you can report on the effectiveness of your campaign once the campaign is completed. The first section of the Brand Survey Test focuses on the test details. What are your options for what you can test? (Select all that apply)|You can test the effect of a group of campaigns.$You can test a specific campaign.
-How might a Brand Survey Test on the Facebook platform help an advertiser? |It shows the incremental lift in ad recall caused by a brand awareness focused campaign, thus helping to evaluate the effectiveness of that campaign
-When you use an experiment to test the effectiveness of your advertising campaign, what do we mean when we refer to the treatment or test group? |The group of people that may have been exposed to your ad
-True or false? A well designed experiment requires that people in the test are randomly assigned to the test or the control group. |True
-True or false? The 'control group' is the group in the experiment that will be exposed to the treatment. |False
-The Meta pixel can track conversions made on what platform? |Website
+How might a Brand Survey Test on the Facebook platform help an advertiser?|It shows the incremental lift in ad recall caused by a brand awareness focused campaign, thus helping to evaluate the effectiveness of that campaign
+When you use an experiment to test the effectiveness of your advertising campaign, what do we mean when we refer to the treatment or test group?|The group of people that may have been exposed to your ad
+True or false? A well designed experiment requires that people in the test are randomly assigned to the test or the control group.|True
+True or false? The 'control group' is the group in the experiment that will be exposed to the treatment.|False
+The Meta pixel can track conversions made on what platform?|Website
 A campaign's incremental impact is...|Any difference between the groups is likely to have been caused by the ad or campaign.
-What is the difference between a Holdout Test and a Brand Survey Test on Meta? |A Holdout Test measures the effect of your ads on conversions, whereas a Brand Survey Test measures the effect of your ads on ad recall and other brand related metrics measured through the use of a survey
-Imagine you ran a Holdout Test for your Facebook campaign and you find the following information in the report of the results: Conversion lift percent: 15.2% Conversion Lift: 2,155 Sales Lift: $88,100 Based on this information, which of the following is correct? |Your Facebook ads caused 2,155 additional conversions to occur that wouldn't have happened otherwise
-True or false? If the confidence level for your test isn't very high, stop running your test for a bit longer and decrease your advertising budget to see a bigger effect. |False
+What is the difference between a Holdout Test and a Brand Survey Test on Meta?|A Holdout Test measures the effect of your ads on conversions, whereas a Brand Survey Test measures the effect of your ads on ad recall and other brand related metrics measured through the use of a survey
+Imagine you ran a Holdout Test for your Facebook campaign and you find the following information in the report of the results: Conversion lift percent: 15.2% Conversion Lift: 2,155 Sales Lift: $88,100 Based on this information, which of the following is correct?|Your Facebook ads caused 2,155 additional conversions to occur that wouldn't have happened otherwise
+True or false? If the confidence level for your test isn't very high, stop running your test for a bit longer and decrease your advertising budget to see a bigger effect.|False
 The core of your Brand Survey Test is:|Creating your poll questions
-True or false? Meta suggests that in order to run a successful test, you should at least spend about $30,000 on advertising in the campaigns you are testing. |True
+True or false? Meta suggests that in order to run a successful test, you should at least spend about $30,000 on advertising in the campaigns you are testing.|True
 Which of the following are elements of an experimental design?|Treatment Group$Control Group$Treatment Variable
 The one aspect of an experiment you change between the treatment group and the control group is called the:|Treatment
 Imagine you want to track customer actions taken on your company's app. Which Meta tool would be most helpful?|The Meta SDK
 A campaign's incremental impact is...|Conversions or sales created by an ad campaign.
-Imagine you ran a Brand Survey test for your campaign on Facebook and it is clear from the report that the confidence level for your test is low. In fact, it says in your report: "the chance that your Facebook ads caused brand lift of 63.2%". You would like to see a higher confidence level. What could you do? |Keep running the campaign and increase the test period and the ad budget
+Imagine you ran a Brand Survey test for your campaign on Facebook and it is clear from the report that the confidence level for your test is low. In fact, it says in your report: "the chance that your Facebook ads caused brand lift of 63.2%". You would like to see a higher confidence level. What could you do?|Keep running the campaign and increase the test period and the ad budget
