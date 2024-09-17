@@ -23,3 +23,4 @@ Which of the following are good things to keep in mind when copywriting? (Choose
 An ad agency submits a creative brief to you. It looks almost complete, but it's missing a description of who you want to engage and influence. Which creative brief element is missing?|Target audience
 True or false? Emojis can be an effective way to grab their attention and communicate in a casual way.|True
 Which of the following are good tips to keep in mind when shooting a picture for your ad campaign? (Choose all that apply)|Follow the Rule of Thirds$Keep it simple$Use attractive color combinations
+You decide to run an ad campaign and create an objective to increase conversions on your website. Which KPI would accurately measure this objective? (Select all that apply)|Number of purchases$ROAS
