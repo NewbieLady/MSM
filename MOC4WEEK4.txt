@@ -17,3 +17,9 @@ A new menswear brand company delivers a campaign to generate maximum awareness a
 Which ad format allows you to showcase up to 10 images or videos within a single ad, each with its own link?|Carousel
 True or False? Meta machine learning optimizes for image and text ads, so you don't need to click through the different previews of the ad in different locations to make sure your image looks great in all of them and the most critical information is visible.|False
 A new menswear brand company delivers a campaign to generate maximum awareness among new potential customers. Which metric should the company use to evaluate the success of the campaign?|Reach
+A beard oil company is new to Ads Manager and wants to begin experimenting and creating ads. Which ad format is the best one with which to start?|Single image
+An advertiser is looking to change an ad campaign's budget. Where should the advertiser navigate in Ads Manager?|Campaign level
+Which KPI estimates how many people would remember seeing your ad if they were asked within two days?|Estimated Ad Recall Lift
+A candy company delivers a campaign to generate maximum sales of its candies. Which metric should the company use to evaluate the success of the campaign?|Conversions
+What is a valid reason that an ad would be rejected by Meta?|An image within the ad focused on individual body parts
+An advertiser is delivering an ad campaign and recently created an Instagram business profile. Where should the advertiser navigate in Ads Manager in order to include the Instagram business profile in the campaign?|Ad set level
