@@ -31,3 +31,4 @@ Which bid strategy does Meta recommend you select in Ads Manager?|Highest Volume
 Which variable in a split test compares how effective your ads are at reaching different audiences or demographics?|Audience
 What type of budget tells Facebook how much you’re willing to spend over the entire runtime of your campaign?|Lifetime budget
 If you're doing a split-test, which variable should you change if you want to see whether one image-text combination gets more leads than another?|Creative
+Which bid strategy allows you to set the average amount you’re willing to pay for a desired outcome, like a conversion on your website?|Cost per Result Goal
