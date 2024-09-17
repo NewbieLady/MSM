@@ -1,10 +1,10 @@
-Which of the following is NOT examples of ad placement options for ads created on Ads Manager? |Profile
+Which of the following is NOT examples of ad placement options for ads created on Ads Manager?|Profile
 Which type of major ad placement places your ads on Facebook and Facebook Marketplace if someone searches something related to your product?|Search
 Which part of the total value ad auction equation covers feedback from people that view or hide your ad, as well as findings of "low-quality" attributes such as sensationalized language, engagement bait, and more?|Ad Quality
-Let's say two skateboard companies are competing in an auction to show one person, named Daniel, an ad. Daniel lives in Denver, Colorado. Company One targeted people who like skateboarding who live near the Rocky Mountains in Colorado. Company Two is targeting all men who like to skateboard in the United States. Company Two budgeted way more money than Company One for ads. Which part of their Total Value score will this boost? |Estimated Action Rate
-Which of the following ad account sections is necessary for you to fill in for legal reasons, as there may be restrictions on certain types of advertising in your region? |Business Information and Advertising Purpose
+Let's say two skateboard companies are competing in an auction to show one person, named Daniel, an ad. Daniel lives in Denver, Colorado. Company One targeted people who like skateboarding who live near the Rocky Mountains in Colorado. Company Two is targeting all men who like to skateboard in the United States. Company Two budgeted way more money than Company One for ads. Which part of their Total Value score will this boost?|Estimated Action Rate
+Which of the following ad account sections is necessary for you to fill in for legal reasons, as there may be restrictions on certain types of advertising in your region?|Business Information and Advertising Purpose
 True or False? If you have a Facebook profile or an Instagram account, you automatically also have an Ads Manager account.|True
 Which of the following is not something you define when thinking about ad sets?|objective
 What is the third step in the campaign-creation process in Ads Manager?|Creating your ads—choosing the ad format and then adding videos or photos, writing copy, and defining your destination .
-In which major section of Ads Manager (found in the top navigation bar) would you prepare mockup ad campaigns? |Advertise
+In which major section of Ads Manager (found in the top navigation bar) would you prepare mockup ad campaigns?|Advertise
 True or False? Ads Manager's Creative Hub lets you prepare mockup ad campaigns without actually running them.|True
