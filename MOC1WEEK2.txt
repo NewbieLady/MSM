@@ -23,3 +23,5 @@ Which of the following components of the EPIC framework does the following state
 Which of the following components does a brand consist of? Select all that apply.|a logo$colors
 Which of the following is a function of the brand? Select all that apply.|build connection$build trust
 What's the first major social media platform you should set up a company page for?|Facebook
+Which of the following components of the EPIC framework does the following statement encompass? What the business does and why they do it, including articulating a set of values for the business|Purpose
+Which of the following is a function of the brand? Select all that apply.|ease selections$enable recognition
