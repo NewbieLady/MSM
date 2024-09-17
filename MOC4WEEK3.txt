@@ -19,3 +19,7 @@ Let's say you run a shop in Atlanta that sells disc golf equipment . You haven't
 Which success metric should you monitor if you choose the ad object "Promote Your App" for your Facebook business page?|Number of app downloads
 What action would a business want its customers to take if it selects "Get More Website Purchases" as its campaign objective when creating an ad on Facebook?|Make a purchase
 What action would a business want its customers to take if it selects "Get More Website Purchases" as its campaign objective when creating an ad on Facebook?|Make a purchase
+To keep your stories dynamic, you should:|Strategically deploy speed$Break them into multiple scenes
+True or false? Engagement rates are higher for Instagram stories without sound, as people frequently watch them muted.|False
+You start a Facebook Business Page and want to run an ad to increase people’s awareness of your business and get more Page likes. Which Facebook Ads Manager objective should you choose?|Promote Your Page
+True or false? Once you've set a specific goal for your business that you'd like your Facebook ad to help you achieve, the next step is to choose the promotion or ad objective that matches your business goal.|True
