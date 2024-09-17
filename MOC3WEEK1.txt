@@ -6,7 +6,6 @@ Which of the following is an important quality of a KPI?|Directly related to you
 Which of the following is an example of a marketing KPI? Select all that apply.|Sales revenue$Engagement$Conversion rate
 Devon set a SMART goal for his hand-knit sweater business: "Gain 20% more new customers by the end of the year". What would be a good KPI for him to use when evaluating if he is reaching this goal?|Conversion rate (how many people took action, e.g. bought something, out of the people you attracted)
 Calla and Ivy set a SMART goal for their B2C flower business: "Direct 20% more customers to the website through social media posts in the next three months". What would a good KPI for Calla and Ivy to evaluate to see if they are reaching their goal?|Website traffic
-Which of the following are examples of Key Performance Indicators [KPIs]? (Choose all that apply)|Your conversion rate for purchases$A measurement of website traffic to your new product page$The number of subscriptions/sales
 Maria set a SMART goal for her chocolate business: "Increase online sales by 50% by the end of 6 months". What would be a good KPI for her to use to evaluate if she is reaching this goal?|Conversion rate (how many people took action, e.g. bought something, out of the people you attracted)
 Which of the following is an important quality of a KPI?|Measurable
 Which of the following is an example of a marketing KPI? Select all that apply.|Brand awareness$Cost per lead
@@ -21,3 +20,4 @@ Which of the following goals fit the SMART framework? (Choose all that apply)|In
 Which of the following are examples of Key Performance Indicators [KPIs]? (Choose all that apply)|The number of subscriptions/sales$A measurement of website traffic to your new product page$Your conversion rate for purchases
 Which of the following is an example of a marketing KPI? Select all that apply.|Cost per lead$Engagement$Brand awareness
 Calla and Ivy set a SMART goal for their B2C flower business: "Gain 25% more sales from the people who visit the website in the next six months". What would a good KPI for Calla and Ivy to evaluate to see if they are reaching their goal?|Conversion rate
+Devon set a SMART goal for his hand-knit sweater business: "Increase revenue from sweater sales by 25% by the end of the year".|Sales Revenue (how much money you generate from sales)
