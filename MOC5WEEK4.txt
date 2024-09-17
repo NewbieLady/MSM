@@ -79,3 +79,6 @@ What is a valid reason that an ad would be rejected by Meta?|An image within the
 In order to access the ad scheduling feature in Ads Manager, which setting must you select?|Lifetime budget
 A business wants to forecast the reach of their ad set. Which tool should an advertiser use to perform this task?|Estimated daily results
 Which of the following are GDPR citizen rights? (Select three)|Citizens have the right to correct their information$Citizens have the right to have all the information that was collected and saved about them erased$Citizens have the right to access the personal information received about them
+What action does a business want its customers to take if it selects Traffic as its campaign objective?|Visit business website
+Which two variables are available for A/B tests? (Choose two)|Audience
+Which part of the total value ad auction equation covers feedback from people that view or hide your ad, as well as findings of "low-quality" attributes such as sensationalized language, engagement bait, and more?|Ad Quality
