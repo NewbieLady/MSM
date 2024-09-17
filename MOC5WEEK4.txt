@@ -82,3 +82,10 @@ Which of the following are GDPR citizen rights? (Select three)|Citizens have the
 What action does a business want its customers to take if it selects Traffic as its campaign objective?|Visit business website
 Which two variables are available for A/B tests? (Choose two)|Audience
 Which part of the total value ad auction equation covers feedback from people that view or hide your ad, as well as findings of "low-quality" attributes such as sensationalized language, engagement bait, and more?|Ad Quality
+Let's say you're advertising a new restaurant on Instagram. You want your ads to be seen by people with similar interests as your current followers. Which advertising targeting option should you use?|Automatic targeting
+What is organic reach?|The number of people who have seen a post through unpaid distribution
+Which two ad placement platforms are available when you create an ad in Ads Manager? (Choose two)|Audience Network$Instagram Feed
+On a Facebook Page, in which two places can a business see reporting for boosted posts? (Choose two)|Page Insights$Page post
+A restaurant launches a video campaign for a new location. The goal is to maximize the number of times the video has started to play per impression. Which metric should be used to measure success?|Video plays
+A car dealership wants to receive contact information on Facebook from potential customers to increase test drives. Which campaign objective is appropriate for this business?|Leads
+A brand wants to send more people to the App Store to download its app. Which campaign objective is most relevant?|App Promotion
