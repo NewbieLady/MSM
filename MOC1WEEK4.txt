@@ -5,7 +5,6 @@ Let's say two skateboard companies are competing in an auction to show one perso
 Which of the following ad account sections is necessary for you to fill in for legal reasons, as there may be restrictions on certain types of advertising in your region?|Business Information and Advertising Purpose
 True or False? If you have a Facebook profile or an Instagram account, you automatically also have an Ads Manager account.|True
 Which of the following is not something you define when thinking about ad sets?|objective
-What is the third step in the campaign-creation process in Ads Manager?|Creating your ads—choosing the ad format and then adding videos or photos, writing copy, and defining your destination .
 In which major section of Ads Manager (found in the top navigation bar) would you prepare mockup ad campaigns?|Advertise
 True or False? Ads Manager's Creative Hub lets you prepare mockup ad campaigns without actually running them.|True
 Which of the following are examples of ad placement options for ads created on Ads Manager? (Choose all that apply)|Feed$In-Stream$Search
@@ -15,7 +14,6 @@ Let's say two skateboard companies are competing in an auction to show one perso
 Which of the following ad account sections is it necessary for you to fill in for legal reasons, as there may be restrictions on certain types of advertising in your region?|Business Information and Advertising Purpose
 True or False? When you change your currency or time zone, you will NOT create a new ad account—instead, your current account will be altered.|False
 Which of the following is NOT something you define when thinking about ad sets?|Objective
-What is the second step in the campaign-creation process in Ads Manager?|Select your ad sets, which tell your ad how to run
 In what Ads Manager business tool category would you find tools to learn more about why Meta might have rejected your ad?|Manage Business
 True or False? Ads Manager's Engage Customers section is where you can create a "catalog" of all your products.|False
 Which of the following are examples of ad placement options for ads created on Ads Manager? (Choose all that apply)|Stories$In-Article
@@ -30,3 +28,7 @@ Let's say two skateboard companies are competing in an auction to show one perso
 Which part of your ad account does Meta automatically set based on your profile location?|Currency and Time Zone
 What is the structure of a Meta ad campaign?|Campaign --> ad set --> ad
 True or False? Ads Manager's Advertise section lets you access Audience Insights, get deeper analytics about how people interact with your business.|False
+For an ad to be effective its five core elements must work together and match. Which of the following statements reflect the 5 core elements of effective ads? (Select all that apply)|There should be a clear call-to-action that expresses what you want your target audience to do next.$The messaging has to be right for the target audience$Your ad should promise something to customers and offer a kind of deal to entice them to visit your website.
+Which of the following shows the correct order of actions you need to take at the ad level?|Choose format → add photos and videos → write copy → define destination
+Which part of the Meta total value ad auction equation covers feedback from people that view or hide your ad, as well as findings of "low-quality" attributes such as sensationalized language, engagement bait, and more?|Ad Quality
+What is the third step in the campaign-creation process in Ads Manager?|Select where ads will be seen through placements
