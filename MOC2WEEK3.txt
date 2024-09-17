@@ -29,3 +29,5 @@ Which type of budget in Ads Manager lets you control how much money you spend on
 Which bid strategy tells Meta to bid with the goal of getting you the lowest possible cost per desired action, while also spending your entire budget by the end of the campaign?|Highest Volume
 Which bid strategy does Meta recommend you select in Ads Manager?|Highest Volume
 Which variable in a split test compares how effective your ads are at reaching different audiences or demographics?|Audience
+What type of budget tells Facebook how much you’re willing to spend over the entire runtime of your campaign?|Lifetime budget
+If you're doing a split-test, which variable should you change if you want to see whether one image-text combination gets more leads than another?|Creative
