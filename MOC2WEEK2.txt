@@ -5,7 +5,7 @@ True or False? You can safely assume that people viewing your video advertisemen
 The social media feature—used across Instagram, Twitter, Facebook, and more— that lets you tag your post with a category and make it more findable is called a:|hashtag
 When you tag another person or social media user with an @ preceding their name in a post, that's called a:|mention
 Which of the following is true about the use of images on social media?|A tweet with an image gets 3 times more engagement than a tweet with only text
-Which of the following is true about videos on social media?|It is best to try to capture your audience's attention in the first 5 seconds\
+Which of the following is true about videos on social media?|It is best to try to capture your audience's attention in the first 5 seconds
 A good way to widen your audience for a post is to: (Select all that apply)|@ mention people involved to expose it to their followers$Use appropriate hashtags
 Instagram users can maximize engagement through use of: (Select all that apply)|@ mentions$Topically appropriate hashtags$Strategic use of the multiple photo option
 You're drafting the text for a Facebook advertisement. What's a good thing to add to guarantee greater engagement?|Include an image in your post
@@ -14,9 +14,9 @@ To show your Facebook post to an audience outside your followers, you should:|Us
 Which of the following is true about videos on social media?|It is best to try to capture your audience's attention in the first 5 seconds
 A good way to widen your audience for a post is to: (Select all that apply)|Use appropriate hashtags$@ mention people involved to expose it to their followers
 What's the best performing type of post on Facebook?|Video
-A good way to get people to share Facebook posts you create is to: (Select all that apply)|@ mention them$Present a problem and offer a solution
 True or False? You should always shoot your videos in horizontal landscape view to make them seem more cinematic.|False
 A good way to get people to share Facebook posts you create is to: (Select all that apply)|Present a problem and offer a solution$@ mention them
 Instagram users can maximize engagement through use of: (Select all that apply)|Topically appropriate hashtags$@ mentions$Strategic use of the multiple photo option
 Let's say your company has a large Instagram following and is trying to do a fundraiser. What are the best ways to leverage Instagram's features? (Select all that apply)|Host a fundraiser on Instagram Live, where people can donate directly through the app$Put a fundraising link in your bio
 Which of the following is true about videos on social media?|It is best to try to capture your audience's attention in the first 5 seconds
+Which of the following is not true about hashtags?|The more there are, the better
