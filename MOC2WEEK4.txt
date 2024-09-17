@@ -12,3 +12,12 @@ Let's say you sell bike chains, which each cost $200. You have a revenue goal of
 If you're doing a split-test, which variable should you change to compare how effective your ads are at reaching different demographics?|Audience
 Which variable in a split compares how your ad performs with a video asset versus an image carousel, or with any other differentiation in ad-level adjustments?|Creative
 Let's say you're trying to achieve a marketing goal for app downloads. You want 40,000 people to download the app, which costs $1 per download. You make $0.50 in profits per download. What's the maximum amount in dollars you can spend on advertising without losing money?|20,000
+Wes is the owner of a spa and massage center called OASIS. He wants to convey to potential customers the mental and physical benefits of his massage and spa offerings, as well as the accessibility of his business. Which of the following tips should he follow to appropriately get his message across? (Select all that apply)|Mention price or special offers for spa treatments and massages$Use customer reviews to support claims about physical and mental health benefits
+Which objective should be selected to generate sales on a website or app?|Sales
+Which type of budget in Ads Manager lets you control how much money you spend on each ad set?|Ad Set budget
+Which bid strategy tells Meta to bid with the goal of getting you the lowest possible cost per desired action, while also spending your entire budget by the end of the campaign?|Highest Volume
+Which bid strategy does Meta recommend you select in Ads Manager?|Highest Volume
+Which variable in a split test compares how effective your ads are at reaching different audiences or demographics?|Audience
+What type of budget tells Facebook how much you’re willing to spend over the entire runtime of your campaign?|Lifetime budget
+If you're doing a split-test, which variable should you change if you want to see whether one image-text combination gets more leads than another?|Creative
+Which bid strategy allows you to set the average amount you’re willing to pay for a desired outcome, like a conversion on your website?|Cost per Result Goal
