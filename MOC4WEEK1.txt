@@ -19,3 +19,6 @@ True or False: The process of moving people through the customer journey results
 The audience that will typically get most of your attention since you expect them to become your most valuable group of customers is:|Primary target audience
 Will just saw an Instagram ad for a sweatshirt claiming to be the comfiest sweatshirt ever. In which stage of the customer journey is Will?|Awareness
 Which of the following research tools lets you track what industries people are interacting with your business from?|Linkedin Audience Insights
+Social media data that can help you determine your target audience includes which of the following? (Select all that apply)|Page visitors' prior purchasing habits$Page visitors' age$Page visitors' geographic location
+What do marketers use to represent the process of moving people through the customer journey?|The marketing funnel
+Which of the following research tools lets you track the keywords your followers are searching for, their online posting behavior, and the devices they use?|Twitter Business Analytics
