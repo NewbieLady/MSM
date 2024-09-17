@@ -6,3 +6,9 @@ Which bid strategy limits what Meta can bid in every single auction?|Bid Cap
 Which bid strategy is best for maximizing the number of outcomes for your budget, while keeping the average cost per outcome below a certain amount?|Cost per Result Goal
 If you're doing a split-test, which variable should you change to test whether it's more effective to optimize for impressions, leads, link clicks, or other options. ?|Delivery Optimization
 Which variable in a split test compares automatic placements with specifically chosen ad placements?|Placement
+Which Meta ad campaign objective group (and customer journey stage) includes objectives to create initial awareness of your brand?|Awareness
+A nonprofit is creating a newsletter and wants to optimize towards collecting email addresses to send it to. Which objective should the nonprofit apply?|Leads
+Let's say you sell bike chains, which each cost $200. You have a revenue goal of $10,000. You know that one out of every 100 customers who visits your page buys one bike chain. How many people exactly need to visit your page for you to meet your projected revenue goal?|5,000
+If you're doing a split-test, which variable should you change to compare how effective your ads are at reaching different demographics?|Audience
+Which variable in a split compares how your ad performs with a video asset versus an image carousel, or with any other differentiation in ad-level adjustments?|Creative
+Let's say you're trying to achieve a marketing goal for app downloads. You want 40,000 people to download the app, which costs $1 per download. You make $0.50 in profits per download. What's the maximum amount in dollars you can spend on advertising without losing money?|20,000

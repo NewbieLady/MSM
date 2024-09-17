@@ -1,10 +1,19 @@
-You design an ad campaign for a weight-loss product with "before and after" pictures. Is Meta likely to reject this campaign for violating its Ad Policies? |Yes
+You design an ad campaign for a weight-loss product with "before and after" pictures. Is Meta likely to reject this campaign for violating its Ad Policies?|Yes
 What is a valid reason that an ad would be rejected by Meta?|The ad used a Facebook logo with a red background instead of the official blue
 Which ad format opens up a broader catalog of up to 50 different products when tapped on?|Collection
 A hardware business wants users to immediately be able to browse its pipe collection, which contains more than 25 types of pipe of varying lengths and widths. Which ad format should the retailer use to meet these requirements?|Collection
-An advertiser is looking to change an ad campaign's objective from Sales to Traffic. Where should the advertiser navigate in Ads Manager? |Campaign level
+An advertiser is looking to change an ad campaign's objective from Sales to Traffic. Where should the advertiser navigate in Ads Manager?|Campaign level
 True or False? It's a good idea to use stock photos when creating your ads as opposed to your own photos, as stock photos are more universal.|False
-You design an ad for a campaign that markets skate shoes to teens. Is Meta likely to reject this campaign for violating its Ad Policies? |No
+You design an ad for a campaign that markets skate shoes to teens. Is Meta likely to reject this campaign for violating its Ad Policies?|No
 What is a valid reason that an ad would be rejected by Meta?|The ad contained sexually suggestive images.
 Which KPI measures how many times an ad's link to reach your website was clicked?|Link Clicks
 A new alcoholic seltzer company wants to compete in a crowded market by creating a video ad campaign which people will remember when they go to the store. Which metric should the company use to evaluate the success of the campaign?|Estimated Ad Recall Lift
+Which ad format is designed to reflect the way people actually consume video— from bite-sized videos they watch on the go, to longer video styles they watch on the couch?|Single Video
+A men's retail business is launching a new shoe line with eight different style/color combinations. All styles must be shown to the audience. However, the business doesn't know which new products will best sell. The business wants to link each style page directly to the product to receive pixel information. Which ad format should the retailer use to meet these requirements?|Carousel
+Which KPI measures all reactions, comments, shares and clicks on your post?|Post Engagements
+True or False? When creating image-based ads, you should crop them to make sure they look great in a square, vertical, and horizontal format.|True
+You design an ad for a campaign that raises awareness about the dangers of drunk driving, and your image is a photo of a dead body after a drunk-driving accident. Is Meta likely to reject this campaign for violating its Ad Policies?|Yes
+A new menswear brand company delivers a campaign to generate maximum awareness among new potential customers. Which metric should the company use to evaluate the success of the campaign?|Reach
+Which ad format allows you to showcase up to 10 images or videos within a single ad, each with its own link?|Carousel
+True or False? Meta machine learning optimizes for image and text ads, so you don't need to click through the different previews of the ad in different locations to make sure your image looks great in all of them and the most critical information is visible.|False
+A new menswear brand company delivers a campaign to generate maximum awareness among new potential customers. Which metric should the company use to evaluate the success of the campaign?|Reach

@@ -15,3 +15,8 @@ When creating a presentation, what's the main thing to keep in mind as you creat
 You want to talk about an experiment you ran that showed the difference between two audiences being marketed to. Which of the following would you talk about?|A/B Testing
 It's the day of your presentation, and you are NOT confusing your audience. Why?|All of the above
 If you were presenting your data results, and wanted to talk about your revenue as a ratio to what you spent, what number would you include?|ROAS
+How could you close your presentation?|All of the above
+What are some slides you'd want to include in your slide deck?|Lessons learned for the future
+You're anticipating audience questions, especially one asking how you were able to connect the campaign with the results. You'd then include a slide addressing what?|Causal relationships
+How should you be thinking about your slide deck during a presentation?|All of the above
+

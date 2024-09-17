@@ -8,3 +8,25 @@ Which of the following is not something you define when thinking about ad sets?|
 What is the third step in the campaign-creation process in Ads Manager?|Creating your ads—choosing the ad format and then adding videos or photos, writing copy, and defining your destination .
 In which major section of Ads Manager (found in the top navigation bar) would you prepare mockup ad campaigns?|Advertise
 True or False? Ads Manager's Creative Hub lets you prepare mockup ad campaigns without actually running them.|True
+Which of the following are examples of ad placement options for ads created on Ads Manager? (Choose all that apply)|Feed$In-Stream$Search
+Which type of major ad placement places your ads before, during, or after video content?|In-Stream
+Which part of the Meta total value ad auction equation tells you how much an advertiser is willing to pay to achieve their desired outcome?|Advertiser Bid
+Let's say two skateboard companies are competing in an auction to show one person, named Daniel, an ad. Daniel lives in the mountains and loves hiking, snowboarding, and skateboarding. Company One targeted people who like skateboarding who live near the mountains in a few U.S. states. Company Two is targeting all men who like to skateboard in the U.S. Daniel clicked "Shop Now!" on a lot of mountain-themed skate merchandise ads in the past. Which part of Company One's Total Value score will this boost?|Estimated Action Rate
+Which of the following ad account sections is it necessary for you to fill in for legal reasons, as there may be restrictions on certain types of advertising in your region?|Business Information and Advertising Purpose
+True or False? When you change your currency or time zone, you will NOT create a new ad account—instead, your current account will be altered.|False
+Which of the following is NOT something you define when thinking about ad sets?|Objective
+What is the second step in the campaign-creation process in Ads Manager?|Select your ad sets, which tell your ad how to run
+In what Ads Manager business tool category would you find tools to learn more about why Meta might have rejected your ad?|Manage Business
+True or False? Ads Manager's Engage Customers section is where you can create a "catalog" of all your products.|False
+Which of the following are examples of ad placement options for ads created on Ads Manager? (Choose all that apply)|Stories$In-Article
+Which part of the Meta total value ad auction equation tells you the numerical score Meta assigns to an ad through the auction?|Total Value
+Let's say two skateboard companies are competing in an auction to show one person, named Daniel, an ad. Daniel lives in the mountains and loves hiking, snowboarding, and skateboarding. Company One targeted people who like skateboarding who live near the mountains in a few U.S. states. Company Two is targeting all men who like to skateboard in the U.S. Daniel has liked lots of posts on Facebook to do with the mountain sports near him. Which part of Company One's Total Value score will this boost?|Ad Quality
+Which of the following ad account settings helps you control your total ad costs and will pause your ads after a certain spending limit is reached?|Account Spending Limit
+True or False? Clicking the "gear" icon in the bottom corner of Ads Manager's left sidebar will bring you to the Settings menu.|True
+In what Ads Manager business tool category would you find tools to prepare mockup ad campaigns?|Advertise
+Which of the following is NOT an example of an ad placement option for ads created on Ads Manager?|Profile
+Which type of major ad placement places your ads in some articles on the Facebook mobile app?|In-Article
+Let's say two skateboard companies are competing in an auction to show one person, named Daniel, an ad. Daniel lives in the mountains and loves hiking, snowboarding, and skateboarding. Company One targeted people who like skateboarding who live near the mountains in a few U.S. states. Company Two is targeting all men who like to skateboard in the U.S. Company Two budgeted way more money than Company One for ads. Which part of their Total Value score will this boost?|Advertiser Bid
+Which part of your ad account does Meta automatically set based on your profile location?|Currency and Time Zone
+What is the structure of a Meta ad campaign?|Campaign --> ad set --> ad
+True or False? Ads Manager's Advertise section lets you access Audience Insights, get deeper analytics about how people interact with your business.|False
