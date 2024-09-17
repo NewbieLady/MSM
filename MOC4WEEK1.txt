@@ -5,7 +5,7 @@ Joni recently purchased a new pair of shoes for work and is happy with how comfo
 True or False: Depending on the stage a person is in, different types of messages will work better than others.|True
 True or False: The customer journey is always equally explicit or linear.|False
 True or False: A customer journey refers to the process a user goes through when purchasing a product.|True
-Which of the following research tools allows you to view insights about your audience for multiple social media platforms? (Choose all that apply)|Google Analytics$Twitter Business Analytics$Linkedin Audience Insights
+Which of the following research tools allows you to view insights about your audience for multiple social media platforms? (Choose all that apply)|Google Analytics$Meta Business Suite Insights
 True or False: Envy is a stage in the typical customer journey.|False
 True or False: When outlining your target audience, you should consider audience needs, interests, and demographic data.|True
 After months of thinking about the new laptop she heard about from a friend, Anna finally decides it's time to buy it. In what stage of the customer journey is Anna?|Conversion
