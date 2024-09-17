@@ -29,4 +29,4 @@ True or false? The main goal of industry self-regulatory organizations is to enf
 True or false? Most large online platforms and websites have a data policy, in which they explain what data they receive, what they use it for, and how people can control what they share.|True
 The three audience types you can create in Ads Manager are Core Audiences, Custom Audiences, and _____________?|Lookalike Audiences
 Often scheduling your ads is very useful, but it could also be harmful. In what way could it be harmful to your campaign?|It limits ad delivery and so you could miss out on conversions outside of your scheduled window
-True or False: You must have a Lifetime budget selected in order to set a specific ads schedule (i.e. one with specified days and times).|False
+True or False: You must have a Lifetime budget selected in order to set a specific ads schedule (i.e. one with specified days and times).|True
