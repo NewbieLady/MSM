@@ -33,3 +33,4 @@ Which of the following shows the correct order of actions you need to take at th
 Which part of the Meta total value ad auction equation covers feedback from people that view or hide your ad, as well as findings of "low-quality" attributes such as sensationalized language, engagement bait, and more?|Ad Quality
 What is the third step in the campaign-creation process in Ads Manager?|Select where ads will be seen through placements
 In what Ads Manager business tool category would you find tools to create, schedule, and manage your organic and paid posts?|Engage Customers
+What is the second step in the campaign-creation process in Ads Manager?|Select your ad sets, which tell your ad how to run
