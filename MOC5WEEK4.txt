@@ -92,3 +92,6 @@ Which of these is an ad account permission granted to the analyst role?|Access r
 Which Facebook roles are able to manage an ad account? (Choose two)|Advertiser$Administrator
 What are the benefits of Meta Pixel? (Choose two)|Helps advertisers reach the right people$Measures the results of an ad across devices
 You have created a campaign with multiple ad sets and individual ads. You want to know the amount spent on a specific ad set. Where can this be found?|The Ad Set tab within Ads Manager in the Amount Spent column
+Which two settings can be changed at the ad set level? (Choose two)|Bid amount$Placements
+Which of the following ad account settings helps you control your total ad costs and will pause your ads after a certain spending limit is reached?|Account Spending Limit
+What can you estimate when creating a Awareness campaign?|Reach
