@@ -21,4 +21,4 @@ Which of the following are examples of Key Performance Indicators [KPIs]? (Choos
 Which of the following is an example of a marketing KPI? Select all that apply.|Cost per lead$Engagement$Brand awareness
 Calla and Ivy set a SMART goal for their B2C flower business: "Gain 25% more sales from the people who visit the website in the next six months". What would a good KPI for Calla and Ivy to evaluate to see if they are reaching their goal?|Conversion rate
 Devon set a SMART goal for his hand-knit sweater business: "Increase revenue from sweater sales by 25% by the end of the year".|Sales Revenue (how much money you generate from sales)
-Maria set a SMART goal for her chocolate business: "Increase the amount of new followers on the business' social media page by 20% by the end of 3 months".|Brand awareness (number of people who know about your brand)
+Maria set a SMART goal for her chocolate business: "Increase the amount of new followers on the business' social media page by 20% by the end of 3 months". What would be a good KPI for her to use when evaluating if she is reaching this goal?|Brand awareness (number of people who know about your brand)
