@@ -23,3 +23,6 @@ To keep your stories dynamic, you should:|Strategically deploy speed$Break them 
 True or false? Engagement rates are higher for Instagram stories without sound, as people frequently watch them muted.|False
 You start a Facebook Business Page and want to run an ad to increase people’s awareness of your business and get more Page likes. Which Facebook Ads Manager objective should you choose?|Promote Your Page
 True or false? Once you've set a specific goal for your business that you'd like your Facebook ad to help you achieve, the next step is to choose the promotion or ad objective that matches your business goal.|True
+Let's say you have a food magazine that you're promoting an Instagram post for. Your goal is to build a larger following on Instagram to eventually grow your business. Your promoted post should direct users towards:|Your Profile
+Let's say you're advertising a new restaurant on Instagram. You want your ads to be seen by people with similar interests as your current followers. Which advertising targeting option should you use?|Automatic targeting
+Which of the following is the first step in creating an ad campaign with Facebook Ads Manager?|Choosing your ad objective
