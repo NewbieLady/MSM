@@ -25,3 +25,5 @@ Imagine you run an online furniture store and want to see results or actions peo
 What is an acceptable confidence level for your test?|90% and above
 True or false: A Holdout Test uses a test and a control group and a Brand Survey test does not.|False
 Imagine you ran a Brand Survey test for your campaign on Facebook and it is clear from the report that the confidence level for your test is low. In fact, it says in your report: "the chance that your Facebook ads caused brand lift of 63.2%". You would like to see a higher confidence level. What could you do?|Keep running the campaign and increase the test period and the ad budget
+True or false? If you want to run an experiment to test your advertising effectiveness, you have to plan it before you create and run your advertising campaign.|True
+You run the marketing for a high end clothing retailer and recently run a brand survey test for your company's Facebook ad campaigns. Your results consist of which of the following? (Select all of the following)|Brand lift percentage$Cost per brand lift$Brand lift$Confidence level of results
