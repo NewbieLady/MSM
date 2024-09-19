@@ -16,10 +16,12 @@ You should organize the copy of your ad into three parts. Which of the following
 You need someone to track, analyze, and report on marketing campaigns to evaluate their success and determine best practices. You're looking to hire a:|Marketing Analyst
 A concise statement of what you want to accomplish in your target market is which part of a creative brief?|Objective
 Your ad objective or goal is to bring people to your online store and ultimately sell them your product. Which KPI will be most important for you to measure?|ROAS (Return on Ad Spend)
-True or false? Your objective determines your Key Performance Indicators (KPIs).|True
 True or false? Once you have grabbed your audience's attention with your opening and made them aware of the problem you are solving, it's time for your call to action.|False
 Which of the following are good things to keep in mind when copywriting? (Choose all that apply)|Be recognizable$Tie your text to your visual
 An ad agency submits a creative brief to you. It looks almost complete, but it's missing a description of who you want to engage and influence. Which creative brief element is missing?|Target audience
 True or false? Emojis can be an effective way to grab their attention and communicate in a casual way.|True
 Which of the following are good tips to keep in mind when shooting a picture for your ad campaign? (Choose all that apply)|Follow the Rule of Thirds$Keep it simple$Use attractive color combinations
 You decide to run an ad campaign and create an objective to increase conversions on your website. Which KPI would accurately measure this objective? (Select all that apply)|Number of purchases$ROAS
+True or false? Your objective determines your Key Performance Indicators (KPIs).|True
+True or False: When shooting a video for your ad campaign, always shoot vertically.|True
+True or False: Brand marketers own and set the overall vision of a brand, its personality, and how it is positioned in the market.|True
