@@ -19,4 +19,4 @@ How could you close your presentation?|All of the above
 What are some slides you'd want to include in your slide deck?|Lessons learned for the future
 You're anticipating audience questions, especially one asking how you were able to connect the campaign with the results. You'd then include a slide addressing what?|Causal relationships
 How should you be thinking about your slide deck during a presentation?|All of the above
-
+What data might you include when presenting on consideration KPIs?|Charts and graphs on traffic and engagement
