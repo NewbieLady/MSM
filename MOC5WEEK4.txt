@@ -10,7 +10,6 @@ When you begin a new campaign on Ads Manager, what is the first step in the proc
 You want to set a maximum bid amount for individual actions like link clicks and landing page views. What should you create?|Facebook ad
 If your goal is to generate sales on your website, which campaign objective should you select?|Sales
 If you select Traffic as your campaign objective, what are you hoping your audience will do?|Visit your website
-What are the benefits of Meta Pixel? (Choose two)|Helps advertisers reach the right people$Measures the results of an ad across devices
 Which two ad placement options are available on Instagram? (Choose two)|Feed$Stories
 What is a valid reason that an ad would be rejected by Meta?|The ad contained sexually suggestive images.
 On a Facebook Page, in which two places can a business see reporting for boosted posts? (Choose two)|Page Insights$Page post
@@ -89,3 +88,7 @@ On a Facebook Page, in which two places can a business see reporting for boosted
 A restaurant launches a video campaign for a new location. The goal is to maximize the number of times the video has started to play per impression. Which metric should be used to measure success?|Video plays
 A car dealership wants to receive contact information on Facebook from potential customers to increase test drives. Which campaign objective is appropriate for this business?|Leads
 A brand wants to send more people to the App Store to download its app. Which campaign objective is most relevant?|App Promotion
+Which of these is an ad account permission granted to the analyst role?|Access reports
+Which Facebook roles are able to manage an ad account? (Choose two)|Advertiser$Administrator
+What are the benefits of Meta Pixel? (Choose two)|Helps advertisers reach the right people$Measures the results of an ad across devices
+You have created a campaign with multiple ad sets and individual ads. You want to know the amount spent on a specific ad set. Where can this be found?|The Ad Set tab within Ads Manager in the Amount Spent column
